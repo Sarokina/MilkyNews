@@ -1,0 +1,16 @@
+.uu5-bricks-section {
+ height: 70px;
+ border-radius: 10px;
+ box-shadow: rgb(5, 5, 56);
+ background-color:rgba(95, 90, 160, 0.062);
+ padding: 7px;
+}
+.uu5-bricks-button{
+    border:rgba(95, 90, 160, 0.062) 2px solid;
+    background-color:#76cc00; 
+    height: 10px;
+    border-radius: 5px;    
+}
+.hello{
+    text-align: center;
+}

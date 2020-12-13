@@ -1,0 +1,25 @@
+{
+    "name": "Our Milk",
+    "abstract": "We think that our Milk is the most healthy and hight ...",
+    "publicationDate": "1993-28-11",
+    "newspaperId": "5ef70b076b6e5e1a705ba4e2",
+    "newspaperName": "CDCNews",
+    "link": "https://www.w3schools.com/",
+    "topicIdList": [
+      "5ef6585f3db1112a9cb25eb2",
+      "5ef51bb0d958020b90a63d18"
+    ],
+    "visibility": true,
+    "uuIdentity": "0-0",
+    "uuIdentityName": "User Anonymous",
+    "news": [],
+    "author": [],
+    "topic": [],
+    "sys": {
+      "cts": "2020-06-27T19:11:11.089Z",
+      "mts": "2020-06-27T19:11:11.089Z",
+      "rev": 0
+    },
+    "id": "5ef799cff6690b36e8aaac75",
+    "uuAppErrorMap": {}
+  }

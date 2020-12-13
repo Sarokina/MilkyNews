@@ -1,0 +1,27 @@
+{
+  "{asid}": {
+    "profileList": ["AsidOwner"],
+    "permissionMap": {
+      "{asidOwner}": ["AsidOwner"]
+    },
+    "useCaseMap": {}
+  },
+  "*": {
+    "profileList": ["Authorities","AwidOwner","Public"],
+    "useCaseMap": {
+      "init": ["AwidOwner"],
+      "helloWorld": ["Public"],
+      "newspaper/update": ["Authorities"],
+      "newspaper/list": ["Public"],
+      "newspaper/get": ["Public"],
+      "topic/delete": ["Authorities"],
+      "article/create": ["Authorities"],
+      "newspaper/create": ["Authorities"],
+      "article/list": ["Public"],
+      "topic/create": ["Authorities"],
+      "author/create": ["Authorities"],
+      "author/list": ["Public"],
+      "author/get": ["Public"]
+    }
+  }
+}

@@ -1,0 +1,328 @@
+{
+"itemList": [
+    {
+      "name": "Lalala",
+      "abstract": "also lala",
+      "publicationDate": "1993-28-11",
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-26T20:57:56.805Z",
+        "mts": "2020-06-26T20:57:56.805Z",
+        "rev": 0
+      },
+      "id": "5ef661543db1112a9cb25ec2"
+    },
+    {
+      "name": "Lalala",
+      "abstract": "also lala",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef59c48bb40ab3978aae6bf",
+      "link": "https://www.w3schools.com/",
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T08:58:04.613Z",
+        "mts": "2020-06-27T08:58:04.613Z",
+        "rev": 0
+      },
+      "id": "5ef70a1c585a6405e45a2eb8"
+    },
+    {
+      "name": "Lalala",
+      "abstract": "also lala",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef59c48bb40ab3978aae6bf",
+      "newspaperName": "CDC News",
+      "link": "https://www.w3schools.com/",
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T09:01:09.134Z",
+        "mts": "2020-06-27T09:01:09.134Z",
+        "rev": 0
+      },
+      "id": "5ef70ad56b6e5e1a705ba4de"
+    },
+    {
+      "name": "Lalala",
+      "abstract": "also lala",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef70b076b6e5e1a705ba4e2",
+      "newspaperName": "CDCNews",
+      "link": "https://www.w3schools.com/",
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T09:02:20.795Z",
+        "mts": "2020-06-27T09:02:20.795Z",
+        "rev": 0
+      },
+      "id": "5ef70b1c6b6e5e1a705ba4e4"
+    },
+    {
+      "name": "Our Milk",
+      "abstract": "We think that our Milk is the most healthy and hight ...",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef70b076b6e5e1a705ba4e2",
+      "newspaperName": "CDCNews",
+      "link": "https://www.w3schools.com/",
+      "topicIdList": [
+        "5ef6585f3db1112a9cb25eb2",
+        "5ef51bb0d958020b90a63d18"
+      ],
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T09:32:18.438Z",
+        "mts": "2020-06-27T09:32:18.438Z",
+        "rev": 0
+      },
+      "id": "5ef71222fda6db353ccb986f"
+    },
+    {
+      "name": "Our Milk",
+      "abstract": "We think that our Milk is the most healthy and hight ...",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef70b076b6e5e1a705ba4e2",
+      "newspaperName": "CDCNews",
+      "link": "https://www.w3schools.com/",
+      "topicIdList": [
+        "5ef6585f3db1112a9cb25eb2",
+        "5ef51bb0d958020b90a63d18"
+      ],
+      "authorName": "Mariana",
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T13:19:09.992Z",
+        "mts": "2020-06-27T13:19:09.992Z",
+        "rev": 0
+      },
+      "id": "5ef7474d2f1895416c1a5c3b"
+    },
+    {
+      "name": "Our Milk",
+      "abstract": "We think that our Milk is the most healthy and hight ...",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef70b076b6e5e1a705ba4e2",
+      "newspaperName": "CDCNews",
+      "link": "https://www.w3schools.com/",
+      "topicIdList": [
+        "5ef6585f3db1112a9cb25eb2",
+        "5ef51bb0d958020b90a63d18"
+      ],
+      "authorName": "Mariana",
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T13:25:10.202Z",
+        "mts": "2020-06-27T13:25:10.202Z",
+        "rev": 0
+      },
+      "id": "5ef748b6b945643018df750d"
+    },
+    {
+      "name": "Our Milk",
+      "abstract": "We think that our Milk is the most healthy and hight ...",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef70b076b6e5e1a705ba4e2",
+      "newspaperName": "CDCNews",
+      "link": "https://www.w3schools.com/",
+      "topicIdList": [
+        "5ef6585f3db1112a9cb25eb2",
+        "5ef51bb0d958020b90a63d18"
+      ],
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T16:19:24.927Z",
+        "mts": "2020-06-27T16:19:24.927Z",
+        "rev": 0
+      },
+      "id": "5ef7718c781dc13e00bb4b47"
+    },
+    {
+      "name": "Our Milk",
+      "abstract": "We think that our Milk is the most healthy and hight ...",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef70b076b6e5e1a705ba4e2",
+      "newspaperName": "CDCNews",
+      "link": "https://www.w3schools.com/",
+      "topicIdList": [
+        "5ef6585f3db1112a9cb25eb2",
+        "5ef51bb0d958020b90a63d18"
+      ],
+      "visibility": true,
+      "uuIdentity": "0-0",
+      "uuIdentityName": "User Anonymous",
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T17:01:37.023Z",
+        "mts": "2020-06-27T17:01:37.023Z",
+        "rev": 0
+      },
+      "id": "5ef77b716b0f724f68e93c75"
+    },
+    {
+      "name": "Our Milk",
+      "abstract": "We think that our Milk is the most healthy and hight ...",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef70b076b6e5e1a705ba4e2",
+      "newspaperName": "CDCNews",
+      "link": "https://www.w3schools.com/",
+      "topicIdList": [
+        "5ef6585f3db1112a9cb25eb2",
+        "5ef51bb0d958020b90a63d18"
+      ],
+      "visibility": true,
+      "uuIdentity": "0-0",
+      "uuIdentityName": "User Anonymous",
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T17:19:02.290Z",
+        "mts": "2020-06-27T17:19:02.290Z",
+        "rev": 0
+      },
+      "id": "5ef77f860277b1315c653abf"
+    },
+    {
+      "name": "Our Milk",
+      "abstract": "We think that our Milk is the most healthy and hight ...",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef70b076b6e5e1a705ba4e2",
+      "newspaperName": "CDCNews",
+      "link": "https://www.w3schools.com/",
+      "topicIdList": [
+        "5ef6585f3db1112a9cb25eb2",
+        "5ef51bb0d958020b90a63d18"
+      ],
+      "visibility": true,
+      "uuIdentity": "0-0",
+      "uuIdentityName": "User Anonymous",
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T17:24:22.838Z",
+        "mts": "2020-06-27T17:24:22.838Z",
+        "rev": 0
+      },
+      "id": "5ef780c63bae39486cc08c04"
+    },
+    {
+      "name": "Our Milk",
+      "abstract": "We think that our Milk is the most healthy and hight ...",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef70b076b6e5e1a705ba4e2",
+      "newspaperName": "CDCNews",
+      "link": "https://www.w3schools.com/",
+      "topicIdList": [
+        "5ef6585f3db1112a9cb25eb2",
+        "5ef51bb0d958020b90a63d18"
+      ],
+      "visibility": true,
+      "uuIdentity": "0-0",
+      "uuIdentityName": "User Anonymous",
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T17:25:45.812Z",
+        "mts": "2020-06-27T17:25:45.812Z",
+        "rev": 0
+      },
+      "id": "5ef781193bae39486cc08c0c"
+    },
+    {
+      "name": "Our Milk",
+      "abstract": "We think that our Milk is the most healthy and hight ...",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef70b076b6e5e1a705ba4e2",
+      "newspaperName": "CDCNews",
+      "link": "https://www.w3schools.com/",
+      "topicIdList": [
+        "5ef6585f3db1112a9cb25eb2",
+        "5ef51bb0d958020b90a63d18"
+      ],
+      "visibility": true,
+      "uuIdentity": "0-0",
+      "uuIdentityName": "User Anonymous",
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T17:29:54.386Z",
+        "mts": "2020-06-27T17:29:54.386Z",
+        "rev": 0
+      },
+      "id": "5ef782123bae39486cc08c16"
+    },
+    {
+      "name": "Our Milk",
+      "abstract": "We think that our Milk is the most healthy and hight ...",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef70b076b6e5e1a705ba4e2",
+      "newspaperName": "CDCNews",
+      "link": "https://www.w3schools.com/",
+      "topicIdList": [
+        "5ef6585f3db1112a9cb25eb2",
+        "5ef51bb0d958020b90a63d18"
+      ],
+      "visibility": true,
+      "uuIdentity": "0-0",
+      "uuIdentityName": "User Anonymous",
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T17:36:38.204Z",
+        "mts": "2020-06-27T17:36:38.204Z",
+        "rev": 0
+      },
+      "id": "5ef783a6b945c61978dab26f"
+    },
+    {
+      "name": "Our Milk",
+      "abstract": "We think that our Milk is the most healthy and hight ...",
+      "publicationDate": "1993-28-11",
+      "newspaperId": "5ef70b076b6e5e1a705ba4e2",
+      "newspaperName": "CDCNews",
+      "link": "https://www.w3schools.com/",
+      "topicIdList": [
+        "5ef6585f3db1112a9cb25eb2",
+        "5ef51bb0d958020b90a63d18"
+      ],
+      "visibility": true,
+      "uuIdentity": "0-0",
+      "uuIdentityName": "User Anonymous",
+      "news": [],
+      "author": [],
+      "topic": [],
+      "sys": {
+        "cts": "2020-06-27T18:14:50.521Z",
+        "mts": "2020-06-27T18:14:50.521Z",
+        "rev": 0
+      },
+      "id": "5ef78c9af6690b36e8aaac54"
+    }
+  ],
+  "pageInfo": {
+    "pageIndex": 0,
+    "pageSize": 1000,
+    "total": 15
+  },
+  "uuAppErrorMap": {}
+}

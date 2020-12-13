@@ -1,0 +1,19 @@
+{
+  "{asid}": {
+    "profileList": ["AsidOwner"],
+    "permissionMap": {
+      "{asidOwner}": ["AsidOwner"]
+    },
+    "useCaseMap": {}
+  },
+  "*": {
+    "profileList": ["Authorities","Executives","AwidOwner","Public"],
+    "useCaseMap": {
+      "init": ["AwidOwner"],
+      "helloWorld": ["Public"],
+      "article/create": ["Public"],
+      "newspaper/update": ["Public"],
+      "topic/delete": ["Public"]
+    }
+  }
+}
